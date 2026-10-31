@@ -59,7 +59,7 @@ E-commerce data from the fictional online toy store Maven Fuzzy Factory, 19/03/2
 | File | Description |
 |---|---|
 | `Pareto_Analysis_English.ipynb` | Full analysis notebook (English) |
-| `Pareto_Analysis_v.ipynb` | Full analysis notebook (Vietnamese) |
+| `Pareto_Analysis_Vietnamese.ipynb` | Full analysis notebook (Vietnamese) |
 | `*.csv` | Raw data (see above) |
 | `Data Dictionary.docx` | Data dictionary |
 | `requirements.txt` | Python packages needed |
